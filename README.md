@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Unity and general programming stuff
 - 💞️ I’m looking to collaborate on Games ;)
 - 📫 How to reach me Discord: https://discord.gg/drfSzY9ZPp
-- ⚡ Fun fact: 
+- ⚡ Fun fact: i also stream my progress: www.twitch.tv/LeHero921
 
 <!---
 LeHero921/LeHero921 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
